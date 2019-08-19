@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://fawwazmayda.github.io/gh-pages/bahasa-python.html",
+            "url": "https://fawwazmayda.github.io/gh-pages/bahasa-python.html",
+            "title": "Bahasa Python",
+            "summary": "Pythonic",
+            "content_html": "Pythonic",
+            "author": {
+                "name": "Abang Bola"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-19T08:34:05-07:00",
+            "date_modified": "2019-08-19T08:34:05-07:00"
+        },
+        {
             "id": "https://fawwazmayda.github.io/gh-pages/tentang-saya.html",
             "url": "https://fawwazmayda.github.io/gh-pages/tentang-saya.html",
             "title": "Tentang Saya",
