@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bang Ball",
+    "description": "",
+    "home_page_url": "https://fawwazmayda.github.io/gh-pages",
+    "feed_url": "https://fawwazmayda.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Abang Bola"
+    },
+    "items": [
+        {
+            "id": "https://fawwazmayda.github.io/gh-pages/tentang-saya.html",
+            "url": "https://fawwazmayda.github.io/gh-pages/tentang-saya.html",
+            "title": "Tentang Saya",
+            "summary": "Machine Learning Enthusiats",
+            "content_html": "Machine Learning Enthusiats",
+            "author": {
+                "name": "Abang Bola"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-19T07:52:11-07:00",
+            "date_modified": "2019-08-19T07:52:11-07:00"
+        },
+        {
+            "id": "https://fawwazmayda.github.io/gh-pages/framework-deep-learning.html",
+            "url": "https://fawwazmayda.github.io/gh-pages/framework-deep-learning.html",
+            "title": "Framework Deep Learning",
+            "summary": "Disini kita akan bahas sedikit mengenai Framework utk Deep Learning.",
+            "content_html": "Disini kita akan bahas sedikit mengenai Framework utk Deep Learning.",
+            "author": {
+                "name": "Abang Bola"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-19T07:44:45-07:00",
+            "date_modified": "2019-08-19T07:58:16-07:00"
+        }
+    ]
+}

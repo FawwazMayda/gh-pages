@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Bang Ball</title>
+    <link href="https://fawwazmayda.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://fawwazmayda.github.io/gh-pages" />
+    <updated>2019-08-19T08:20:58-07:00</updated>
+    <author>
+        <name>Abang Bola</name>
+    </author>
+    <id>https://fawwazmayda.github.io/gh-pages</id>
+
+    <entry>
+        <title>Tentang Saya</title>
+        <author>
+            <name>Abang Bola</name>
+        </author>
+        <link href="https://fawwazmayda.github.io/gh-pages/tentang-saya.html"/>
+        <id>https://fawwazmayda.github.io/gh-pages/tentang-saya.html</id>
+
+        <updated>2019-08-19T07:52:11-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Machine Learning Enthusiats
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Machine Learning Enthusiats
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Framework Deep Learning</title>
+        <author>
+            <name>Abang Bola</name>
+        </author>
+        <link href="https://fawwazmayda.github.io/gh-pages/framework-deep-learning.html"/>
+        <id>https://fawwazmayda.github.io/gh-pages/framework-deep-learning.html</id>
+
+        <updated>2019-08-19T07:58:16-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Disini kita akan bahas sedikit mengenai Framework utk Deep Learning.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Disini kita akan bahas sedikit mengenai Framework utk Deep Learning.
+            ]]>
+        </content>
+    </entry>
+</feed>
