@@ -3,7 +3,7 @@
     <title>Bang Ball</title>
     <link href="https://fawwazmayda.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://fawwazmayda.github.io/gh-pages" />
-    <updated>2019-08-19T08:20:58-07:00</updated>
+    <updated>2019-08-19T08:27:10-07:00</updated>
     <author>
         <name>Abang Bola</name>
     </author>
@@ -37,15 +37,17 @@
         <link href="https://fawwazmayda.github.io/gh-pages/framework-deep-learning.html"/>
         <id>https://fawwazmayda.github.io/gh-pages/framework-deep-learning.html</id>
 
-        <updated>2019-08-19T07:58:16-07:00</updated>
+        <updated>2019-08-19T08:27:02-07:00</updated>
             <summary>
                 <![CDATA[
-                    Disini kita akan bahas sedikit mengenai Framework utk Deep Learning.
+                    Banyaknya minat terhadap dunia Deep Learning belakangan ini membuat banyak orang awam dan bahkan programmers juga merasakannya. Didalamnya sendiri ada banyak Framework yang bisa dipakai.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                Disini kita akan bahas sedikit mengenai Framework utk Deep Learning.
+                <p>Banyaknya minat terhadap dunia Deep Learning belakangan ini membuat banyak orang awam dan bahkan programmers juga merasakannya. </p>
+<p> </p>
+<p>Didalamnya sendiri ada banyak Framework yang bisa dipakai.<img class="post__image--wide" src="https://fawwazmayda.github.io/gh-pages/media/posts/1/deep-learning-framework.png" alt="" width="750" height="422"></p>
             ]]>
         </content>
     </entry>
