@@ -12,16 +12,16 @@
         {
             "id": "https://fawwazmayda.github.io/gh-pages/siapa-itu-deep-learning.html",
             "url": "https://fawwazmayda.github.io/gh-pages/siapa-itu-deep-learning.html",
-            "title": "Siapa itu Deep Learning",
+            "title": "Siapa itu Deep Learning...",
             "summary": "Beberapa tahun terakhir ini, kecerdasan buatan berkembang cukup sangat pesat dan sudah banyak contoh pengaplikasiannya dibeberapa hal didalam kehidupan kita. Masalah – masalah yang sebelumnya sangat sulit dipecahkan manusia, dengan adanya kecerdasan buatan masalah tersebut dapat diselesaikan dengan mudah. Dewasa ini banyak teknik di bidang&hellip;",
-            "content_html": "Beberapa tahun terakhir ini, kecerdasan buatan berkembang cukup sangat pesat dan sudah banyak contoh pengaplikasiannya dibeberapa hal didalam kehidupan kita. Masalah – masalah yang sebelumnya sangat sulit dipecahkan manusia, dengan adanya kecerdasan buatan masalah tersebut dapat diselesaikan dengan mudah.  Dewasa ini banyak teknik di bidang kecerdasan buatan. <em>Deep Learning</em> menggunakan representasi yang sederhana tetapi dengan konsep tersebut komputer dapat membangun konsep yang kompleks seperti yang di tunjukkan oleh gambar 1. Model <em>Deep Learning</em>  tumbuh berkembangan seiring dengan perkembangan komputer baik <em>hardware </em>maupun <em>software</em>.",
+            "content_html": "<p>Beberapa tahun terakhir ini, kecerdasan buatan berkembang cukup sangat pesat dan sudah banyak contoh pengaplikasiannya dibeberapa hal didalam kehidupan kita. Masalah – masalah yang sebelumnya sangat sulit dipecahkan manusia, dengan adanya kecerdasan buatan masalah tersebut dapat diselesaikan dengan mudah.  Dewasa ini banyak teknik di bidang kecerdasan buatan. <em>Deep Learning</em> menggunakan representasi yang sederhana tetapi dengan konsep tersebut komputer dapat membangun konsep yang kompleks seperti yang di tunjukkan oleh gambar 1.</p>\n<p> </p>\n<p>Model <em>Deep Learning</em>  tumbuh berkembangan seiring dengan perkembangan komputer baik <em>hardware </em>maupun <em>software</em>. Dari sisi <em>Hardware</em> adalah dukungan GPU membuat pembuatan model <em>Deep Learning</em> yang kompleks semakin memungkinkan. Selaij itu juga ditambah dengan banyaknya tersedia sumber-sumber <em>Big Data</em> yang memungkinkan pelatihan model <em>Deep Learning</em> dalam sekala besar. Sebagai contoh adalah adanya dataset <em>Imagenet</em> yang berisikan 1000 buah objek yang sering kita temui sehari-hari, dan dari dataset ini pula dihasilkan banyak sekali model seperti Resnet, VGG , Yolo, Alexnet, dll.</p>",
             "author": {
                 "name": "Abang Bola"
             },
             "tags": [
             ],
             "date_published": "2019-08-20T02:23:24-07:00",
-            "date_modified": "2019-08-20T02:24:58-07:00"
+            "date_modified": "2019-08-20T07:35:05-07:00"
         },
         {
             "id": "https://fawwazmayda.github.io/gh-pages/bahasa-python.html",
