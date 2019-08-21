@@ -3,7 +3,7 @@
     <title>Bang Ball</title>
     <link href="https://fawwazmayda.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://fawwazmayda.github.io/gh-pages" />
-    <updated>2019-08-20T07:37:57-07:00</updated>
+    <updated>2019-08-21T07:08:57-07:00</updated>
     <author>
         <name>Abang Bola</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://fawwazmayda.github.io/gh-pages/siapa-itu-deep-learning.html"/>
         <id>https://fawwazmayda.github.io/gh-pages/siapa-itu-deep-learning.html</id>
 
-        <updated>2019-08-20T07:37:51-07:00</updated>
+        <updated>2019-08-21T07:08:52-07:00</updated>
             <summary>
                 <![CDATA[
                     Beberapa tahun terakhir ini, kecerdasan buatan berkembang cukup sangat pesat dan sudah banyak contoh pengaplikasiannya dibeberapa hal didalam kehidupan kita. Masalah – masalah yang sebelumnya sangat sulit dipecahkan manusia, dengan adanya kecerdasan buatan masalah tersebut dapat diselesaikan dengan mudah. Dewasa ini banyak teknik di bidang&hellip;
@@ -29,6 +29,8 @@
 <p> </p>
 <p>Model <em>Deep Learning</em>  tumbuh berkembangan seiring dengan perkembangan komputer baik <em>hardware </em>maupun <em>software</em>. Dari sisi <em>Hardware</em> adalah dukungan GPU membuat pembuatan model <em>Deep Learning</em> yang kompleks semakin memungkinkan. Selaij itu juga ditambah dengan banyaknya tersedia sumber-sumber <em>Big Data</em> yang memungkinkan pelatihan model <em>Deep Learning</em> dalam sekala besar. Sebagai contoh adalah adanya dataset <em>Imagenet</em> yang berisikan 1000 buah objek yang sering kita temui sehari-hari, dan dari dataset ini pula dihasilkan banyak sekali model seperti Resnet, VGG , Yolo, Alexnet, dll.</p>
 <p><img class="post__image" src="https://fawwazmayda.github.io/gh-pages/media/posts/4/Gambar-2-Diagram-Venn-Deep-Learning.png" alt="" width="860" height="858"></p>
+<p> </p>
+<p>BLALALLAA</p>
             ]]>
         </content>
     </entry>
