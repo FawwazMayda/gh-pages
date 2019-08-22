@@ -3,12 +3,46 @@
     <title>Bang Ball</title>
     <link href="https://fawwazmayda.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://fawwazmayda.github.io/gh-pages" />
-    <updated>2019-08-22T00:00:20-07:00</updated>
+    <updated>2019-08-22T00:45:40-07:00</updated>
     <author>
         <name>Abang Bola</name>
     </author>
     <id>https://fawwazmayda.github.io/gh-pages</id>
 
+    <entry>
+        <title>Berkanalan dengan NoSQL dan MongoDB</title>
+        <author>
+            <name>Abang Bola</name>
+        </author>
+        <link href="https://fawwazmayda.github.io/gh-pages/berkanalan-dengan-nosql-dan-mongodb.html"/>
+        <id>https://fawwazmayda.github.io/gh-pages/berkanalan-dengan-nosql-dan-mongodb.html</id>
+
+        <updated>2019-08-22T00:45:31-07:00</updated>
+            <summary>
+                <![CDATA[
+                    kebutuhan database terutama NoSQL sekarang semakin banyak diperlukan oleh berbagai Aplikasi kompleks yang dibangun oleh orang-orang. MongoDB adalah salah satu penyedia jasa layanan database NoSQL yang terkemuka.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>kebutuhan database terutama NoSQL sekarang semakin banyak diperlukan oleh berbagai Aplikasi kompleks yang dibangun oleh orang-orang.</p>
+<p> </p>
+<p>MongoDB adalah salah satu penyedia jasa layanan database NoSQL yang terkemuka.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>MongoDB</title>
+        <author>
+            <name>Abang Bola</name>
+        </author>
+        <link href="https://fawwazmayda.github.io/gh-pages/mongodb.html"/>
+        <id>https://fawwazmayda.github.io/gh-pages/mongodb.html</id>
+
+        <updated>2019-08-22T00:15:33-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Siapa itu Deep Learning...</title>
         <author>

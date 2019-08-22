@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "id": "https://fawwazmayda.github.io/gh-pages/berkanalan-dengan-nosql-dan-mongodb.html",
+            "url": "https://fawwazmayda.github.io/gh-pages/berkanalan-dengan-nosql-dan-mongodb.html",
+            "title": "Berkanalan dengan NoSQL dan MongoDB",
+            "summary": "kebutuhan database terutama NoSQL sekarang semakin banyak diperlukan oleh berbagai Aplikasi kompleks yang dibangun oleh orang-orang. MongoDB adalah salah satu penyedia jasa layanan database NoSQL yang terkemuka.",
+            "content_html": "<p>kebutuhan database terutama NoSQL sekarang semakin banyak diperlukan oleh berbagai Aplikasi kompleks yang dibangun oleh orang-orang.</p>\n<p> </p>\n<p>MongoDB adalah salah satu penyedia jasa layanan database NoSQL yang terkemuka.</p>",
+            "author": {
+                "name": "Abang Bola"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-22T00:45:31-07:00",
+            "date_modified": "2019-08-22T00:45:31-07:00"
+        },
+        {
+            "id": "https://fawwazmayda.github.io/gh-pages/mongodb.html",
+            "url": "https://fawwazmayda.github.io/gh-pages/mongodb.html",
+            "title": "MongoDB",
+            "author": {
+                "name": "Abang Bola"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-22T00:15:33-07:00",
+            "date_modified": "2019-08-22T00:15:33-07:00"
+        },
+        {
             "id": "https://fawwazmayda.github.io/gh-pages/siapa-itu-deep-learning.html",
             "url": "https://fawwazmayda.github.io/gh-pages/siapa-itu-deep-learning.html",
             "title": "Siapa itu Deep Learning...",
