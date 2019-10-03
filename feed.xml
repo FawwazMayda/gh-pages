@@ -3,12 +3,24 @@
     <title>Bang Ball</title>
     <link href="https://fawwazmayda.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://fawwazmayda.github.io/gh-pages" />
-    <updated>2019-10-03T11:43:39+07:00</updated>
+    <updated>2019-10-03T11:45:37+07:00</updated>
     <author>
         <name>Abang Bola</name>
     </author>
     <id>https://fawwazmayda.github.io/gh-pages</id>
 
+    <entry>
+        <title>Why Worry Climate Change</title>
+        <author>
+            <name>Abang Bola</name>
+        </author>
+        <link href="https://fawwazmayda.github.io/gh-pages/why-worry-climate-change.html"/>
+        <id>https://fawwazmayda.github.io/gh-pages/why-worry-climate-change.html</id>
+
+        <updated>2019-10-03T11:45:04+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Word Embeddings</title>
         <author>
