@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://fawwazmayda.github.io/gh-pages/word-embeddings.html",
+            "url": "https://fawwazmayda.github.io/gh-pages/word-embeddings.html",
+            "title": "Word Embeddings",
+            "author": {
+                "name": "Abang Bola"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-22T22:08:41+07:00",
+            "date_modified": "2019-08-22T22:08:41+07:00"
+        },
+        {
             "id": "https://fawwazmayda.github.io/gh-pages/berkanalan-dengan-nosql-dan-mongodb.html",
             "url": "https://fawwazmayda.github.io/gh-pages/berkanalan-dengan-nosql-dan-mongodb.html",
             "title": "Berkanalan dengan NoSQL dan MongoDB",
@@ -20,20 +32,20 @@
             },
             "tags": [
             ],
-            "date_published": "2019-08-22T00:45:31-07:00",
-            "date_modified": "2019-08-22T00:45:31-07:00"
+            "date_published": "2019-08-22T14:45:31+07:00",
+            "date_modified": "2019-08-22T14:45:31+07:00"
         },
         {
             "id": "https://fawwazmayda.github.io/gh-pages/mongodb.html",
             "url": "https://fawwazmayda.github.io/gh-pages/mongodb.html",
-            "title": "MongoDB",
+            "title": "MongoDB Atlas dan Stitch",
             "author": {
                 "name": "Abang Bola"
             },
             "tags": [
             ],
-            "date_published": "2019-08-22T00:15:33-07:00",
-            "date_modified": "2019-08-22T00:15:33-07:00"
+            "date_published": "2019-08-22T14:15:33+07:00",
+            "date_modified": "2019-08-22T22:11:08+07:00"
         },
         {
             "id": "https://fawwazmayda.github.io/gh-pages/siapa-itu-deep-learning.html",
@@ -46,8 +58,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-08-20T02:23:24-07:00",
-            "date_modified": "2019-08-22T00:00:12-07:00"
+            "date_published": "2019-08-20T16:23:24+07:00",
+            "date_modified": "2019-08-22T14:00:12+07:00"
         },
         {
             "id": "https://fawwazmayda.github.io/gh-pages/bahasa-python.html",
@@ -60,8 +72,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-08-19T08:34:05-07:00",
-            "date_modified": "2019-08-19T08:34:05-07:00"
+            "date_published": "2019-08-19T22:34:05+07:00",
+            "date_modified": "2019-08-19T22:34:05+07:00"
         },
         {
             "id": "https://fawwazmayda.github.io/gh-pages/tentang-saya.html",
@@ -74,8 +86,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-08-19T07:52:11-07:00",
-            "date_modified": "2019-08-19T07:52:11-07:00"
+            "date_published": "2019-08-19T21:52:11+07:00",
+            "date_modified": "2019-08-19T21:52:11+07:00"
         },
         {
             "id": "https://fawwazmayda.github.io/gh-pages/framework-deep-learning.html",
@@ -88,8 +100,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-08-19T07:44:45-07:00",
-            "date_modified": "2019-08-19T08:27:02-07:00"
+            "date_published": "2019-08-19T21:44:45+07:00",
+            "date_modified": "2019-08-19T22:27:02+07:00"
         }
     ]
 }
